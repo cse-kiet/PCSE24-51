@@ -2,7 +2,7 @@
 
 ## Posture Guard - Gym Injury Prediction and Prevention
 
-Abstract of the Projec
+Abstract of the Project
 
 Posture Guard – Gym Injury Prediction and Prevention is an innovative system that utilizes computer vision and artificial intelligence (AI) to monitor exercise performance and enhance safety in real-time. The system combines accurate movement analysis with automatic detection of incorrect form and potential injury risk, providing users with actionable feedback to optimize their workouts and reduce the risk of injury.
 
